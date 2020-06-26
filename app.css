@@ -1,0 +1,20 @@
+body{
+	background: #472D30;
+}
+
+.navbar-brand{
+	font-weight: 500;
+}
+.nav-link:hover{
+	font-weight: 500;
+	background: black;
+}
+.col-md-6{
+	color:#C9CBA3;
+	font-weight:400;
+	font-size: 100%;
+}
+.row{
+	margin-bottom: 70px;
+	margin-top: 70px;
+}

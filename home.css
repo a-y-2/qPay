@@ -1,0 +1,72 @@
+body{
+	background: #d0f4de;
+}
+
+.navbar-brand{
+	font-weight: 500;
+}
+.nav-link:hover{
+	font-weight: 700;
+	background: #f1f7ed;
+	
+}
+.nav-link{
+	color: #1a535c;
+	font-weight:500;
+}
+#header{
+        background: url("index.jpg");
+      }
+#qpay{
+        font-weight: 500;
+        color: #01063D;
+      }
+img{
+	border-radius: 25px;
+	height: 400px;
+	width: 400px;
+}
+#right{
+	padding: 70px;
+}
+#left{
+	padding-top: 110px;
+
+}
+h1{
+	text-shadow: 2px 2px 5px blue;
+}
+#text{
+	font-size: 60px;
+	font-family: 'Aladin';
+}
+.button{
+	padding-left: 200px;
+	padding-top: 50px;
+}
+.jumbotron{
+    background-color:#00b4d8;
+    text-align:center;
+}
+#tick{
+	text-align: center;
+	display: inline-block;
+	font-size: 50px;
+	line-height: 50px;
+	word-spacing: 20px;
+	font-style: arial;
+
+}
+#features{
+	text-align: center;
+	padding: 120px;
+}
+.footer{
+	text-align: center;
+	padding: 60px;
+	background: #02c39a;
+}
+
+#signup{
+	align-content: center;
+}
